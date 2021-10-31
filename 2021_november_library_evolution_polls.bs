@@ -124,7 +124,6 @@ Modify
   [[P2442R0]] (Windowing Range Adaptors: `views::chunk` And `views::slide`)
   by replacing the current feature test macro with separate feature test macros for `views::chunk` and `views::slide`
   and then send the revised paper to Library Working Group for C++23,
-  to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 5: [[P2440R0]] `ranges::iota`, `ranges::shift_left`, And `ranges::shift_right` ## {#poll-5}
