@@ -1,0 +1,179 @@
+<pre class='metadata'>
+Title: 2021 November Library Evolution Polls
+Shortname: D2454
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2454
+!Source: <a href="https://github.com/brycelelbach/wg21_p2454_2021_november_library_evolution_polls/blob/main/2021_november_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2454_2021_november_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in November of 2021.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R1]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/S5ZyCZtgxHrK3ZKk">Vote here</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2021-10-31: Draft polls distributed by mailing list.
+- 2021-11-01: Final Library Evolution discussion telecon on the polls.
+- 2021-11-03: Start of the polling period.
+- 2021-11-30: End of the polling period.
+- 2021-12-03: Chairs share results and summarize outcomes.
+
+# Polls # {#poll}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## Poll 1: [[P2465R1]] Standard Library Modules `std` And `std.compat` ## {#poll-1}
+
+Send
+  [[P2465R1]] (Standard Library Modules `std` And `std.compat`)
+  to Library Working Group for C++23,
+  classified as a focus ([[P0592R4]] bucket 1 item).
+
+## Poll 2: [[P2387R2]] Pipe Support For User-Defined Range Adaptors  ## {#poll-2}
+
+Send
+  [[P2387R2]] (Pipe Support For User-Defined Range Adaptors)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 3: [[P2443R0]] `views::chunk_by` ## {#poll-3}
+
+Send
+  [[P2443R0]] (`views::chunk_by`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 4: [[P2442R0]] Windowing Range Adaptors: `views::chunk` And `views::slide` ## {#poll-4}
+
+Modify
+  [[P2442R0]] (Windowing Range Adaptors: `views::chunk` And `views::slide`)
+  by replacing the current feature test macro with separate feature test macros for `views::chunk` and `views::slide`
+  and then send the revised paper to Library Working Group for C++23,
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 5: [[P2440R0]] `ranges::iota`, `ranges::shift_left`, And `ranges::shift_right` ## {#poll-5}
+
+Send
+  [[P2440R0]] (`ranges::iota`, `ranges::shift_left`, And `ranges::shift_right`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 6: [[P2255R0]] A Type Trait To Detect Reference Binding To Temporary ## {#poll-6}
+
+Send
+  [[P2255R0]] (A Type Trait To Detect Reference Binding To Temporary)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 7: [[P1885R8]] Naming Text Encodings To Demystify Them ## {#poll-7}
+
+Send
+  [[P1885R8]] (Naming Text Encodings To Demystify Them)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 8: [[P2419R1]] Clarify Handling Of Encodings In Localized Formatting Of Chrono Types ## {#poll-8}
+
+Send
+  [[P2419R1]] (Clarify Handling Of Encodings In Localized Formatting Of Chrono Types)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
+
+## Poll 9: [[P2445R0]] `forward_like` ## {#poll-9}
+
+Send
+  [[P2445R0]] (`forward_like`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 10: [[P1841R1]] Wording For Individually Specializable Numeric Traits ## {#poll-10}
+
+Modify
+  [[P1841R1]] (Wording For Individually Specializable Numeric Traits)
+  by removing `value_exists` and `value_or`,
+  and then send the revised paper to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 11: [[P0627R6]] Function To Mark Unreachable Code ## {#poll-11}
+
+Send
+  [[P0627R6]] (Function To Mark Unreachable Code),
+  which was previously approved and has only been modified to remove the message parameter,
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
