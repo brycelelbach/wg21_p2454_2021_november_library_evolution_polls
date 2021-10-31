@@ -174,6 +174,6 @@ Modify
 
 Send
   [[P0627R6]] (Function To Mark Unreachable Code),
-  which was previously approved and has only been modified to remove the message parameter,
+  which was previously approved and has been modified to remove the message parameter,
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
