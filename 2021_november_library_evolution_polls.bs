@@ -134,10 +134,10 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 6: [[P2255R0]] A Type Trait To Detect Reference Binding To Temporary ## {#poll-6}
+## Poll 6: [[P2255R2]] A Type Trait To Detect Reference Binding To Temporary ## {#poll-6}
 
 Send
-  [[P2255R0]] (A Type Trait To Detect Reference Binding To Temporary)
+  [[P2255R2]] (A Type Trait To Detect Reference Binding To Temporary)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
