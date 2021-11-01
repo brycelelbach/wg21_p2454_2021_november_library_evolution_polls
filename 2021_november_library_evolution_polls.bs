@@ -165,7 +165,8 @@ Send
 
 Modify
   [[P1841R1]] (Wording For Individually Specializable Numeric Traits)
-  by removing `value_exists` and `value_or`,
+  by applying
+  [[P2485R0]] (Do Not Add `value_exists` And `value_or` To C++23),
   and then send the revised paper to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
@@ -176,3 +177,16 @@ Send
   which was previously approved and has been modified to remove the message parameter,
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
+
+<pre class=biblio>
+{
+  "P2485R0": {
+    "authors": [
+      "Jonathan Wakely"
+    ],
+    "href": "https://isocpp.org/files/papers/P2485R0.html",
+    "title": "Do not add `value_exists` and `value_or` to C++23",
+    "date": "2021-11-01"
+  }
+}
+</pre>
