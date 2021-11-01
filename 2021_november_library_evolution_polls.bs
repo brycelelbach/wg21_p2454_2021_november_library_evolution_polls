@@ -152,16 +152,30 @@ Send
 Send
   [[P2419R1]] (Clarify Handling Of Encodings In Localized Formatting Of Chrono Types)
   to Library Working Group for C++23,
-  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 9: [[P2445R0]] `forward_like` ## {#poll-9}
+## Poll 9: [[P2460R0]] Relax Requirements On `wchar_t` To Match Existing Practices ## {#poll-9}
+
+Send
+  [[P2460R0]] (Relax Requirements On `wchar_t` To Match Existing Practices)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 10: [[P2445R0]] `forward_like` ## {#poll-10}
 
 Send
   [[P2445R0]] (`forward_like`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
+  
+## Poll 11: [[P2417R0]] A More `constexpr` `bitset` ## {#poll-11}
 
-## Poll 10: [[P1841R1]] Wording For Individually Specializable Numeric Traits ## {#poll-10}
+Send
+  [[P2417R0]] (A More `constexpr` `bitset`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 12: [[P1841R1]] Wording For Individually Specializable Numeric Traits ## {#poll-12}
 
 Modify
   [[P1841R1]] (Wording For Individually Specializable Numeric Traits)
@@ -170,7 +184,7 @@ Modify
   and then send the revised paper to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 11: [[P0627R6]] Function To Mark Unreachable Code ## {#poll-11}
+## Poll 13: [[P0627R6]] Function To Mark Unreachable Code ## {#poll-13}
 
 Send
   [[P0627R6]] (Function To Mark Unreachable Code),
