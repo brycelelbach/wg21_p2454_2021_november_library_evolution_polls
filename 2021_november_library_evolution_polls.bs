@@ -1,8 +1,8 @@
 <pre class='metadata'>
 Title: 2021 November Library Evolution Polls
-Shortname: D2454
+Shortname: P2454
 Revision: 0
-Status: D
+Status: P
 Group: WG21
 Audience: WG21
 Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
@@ -31,7 +31,7 @@ All committee members may vote, but if you have not participated in the Library
 
 ## How to Vote ## {#how-to-vote}
 
-<b><a href="https://documents.isocpp.org/index.php/apps/forms/S5ZyCZtgxHrK3ZKk">Vote here</a></b>
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/TMtqoQr7p75ZDziz">Vote here</a></b>
 
 A documents.isocpp.org account is necessary to vote.
 If you have an isocpp.org/papers account, a documents.isocpp.org account has
@@ -167,7 +167,7 @@ Send
   [[P2445R0]] (`forward_like`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
-  
+
 ## Poll 11: [[P2417R0]] A More `constexpr` `bitset` ## {#poll-11}
 
 Send
